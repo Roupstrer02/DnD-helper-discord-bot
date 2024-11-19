@@ -1,0 +1,9 @@
+#
+Evacuation centers capacity update
+
+Most of the town guard have been reassigned to help expedite the evacuation process,
+however these are the current states of the evacuation centers around the city:
+
+Western Wall: **at capacity** - held at a standstill.
+Southern Wall: **near full capacity** - slow, but moving.
+North-Eastern Wall: **half capacity** - moving quickly.

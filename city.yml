@@ -1,0 +1,49 @@
+Embermoore:
+  town center:
+    description:
+    - A beautiful park surrounding a fountain that endlessly shifts shape and height while keeping every drop of water in perfect flow 
+  weapon smith:
+    description:
+    - Walls are adorned with blades both familiar and unique, a circular table-like anvil defines the center of the room with a human smith working next to it.
+    shop:
+      - "clockwork sword: one-handed | gadget slots: 2 | damage: 1d8 + STR | 30G"
+      - "clockwork greate-axe: "
+      - "clockwork hammer: "
+      - "clockwork gauntlets: "
+      - "tinkerer's tools: "
+  alchemist:
+    description:
+    - A small yet respectable establishment, a gnome filters through boxes behind a counter. Behind them, all manners of colorful liquids and gases in uniquely shaped bottles.
+    shop:
+    - potion of health
+    - potion of resilience
+    - mortar and pestle
+    - guide to herbology vol I
+
+  tinkerer's workshop:
+    description:
+    - A large stained glass window shines sunlight on specific parts of the room, highlighting the different gadgets for sale, as well as the masterpieces the tinkerer has hung up on the back wall
+    shop:
+    - scope | range -> (-30/+60)
+    - crossguard | +1 AC when two-handing
+    - extra barrel | May fire extra shot in same action -> -5 to attack roll
+    - gas container | may hold 1 canister worth of any gas and fire it up to 10ft away
+    services:
+    - add gadget
+    - remove gadget
+    - add gadget slot | add a gadget slot 
+    - Naturalize weapon | remove all gadget slots and increase base stats
+    - dissassemble weapon
+
+Zanthar:
+  Chronolosis Invitum:
+    description:
+    - A large purple crystal floats above the center of town, with wells of gas flowing into it from beneath the earth
+  Merlin's magnificent mage store:
+    description:
+    - A store for all kinds of magical goods
+    shop:
+    - pyromancy staff
+    - hydromancy staff
+    - Terromancy staff
+    - Aeromancy staff
